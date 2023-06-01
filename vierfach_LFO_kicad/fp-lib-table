@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SS24E06TG5P)(type Legacy)(uri /home/manuel/mod/Module/07_LFOs/Schalter/SS24E06TG5P.mod)(options "")(descr ""))
+  (lib (name SW_DP3T)(type KiCad)(uri ${KIPRJMOD}/SW_DP3T.pretty)(options "")(descr ""))
+)

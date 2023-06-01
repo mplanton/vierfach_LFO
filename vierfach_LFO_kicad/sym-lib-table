@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SS24E06TG5P)(type Legacy)(uri /home/manuel/mod/Module/07_LFOs/Schalter/SS24E06TG5P.lib)(options "")(descr ""))
+  (lib (name DP3T_Switch)(type Legacy)(uri ${KIPRJMOD}/DP3T_Switch.lib)(options "")(descr ""))
+)
